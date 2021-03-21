@@ -1,0 +1,23 @@
+.header{
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.header .logo{
+    height: 50px;
+}
+
+.nav{
+    margin-left: 500px;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.877);
+    font-weight: bold;
+    text-align: right;
+  }
